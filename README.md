@@ -1,2 +1,10 @@
 # Webscraping
-Used libraries:     - urllib     - beautifulsoup     - pattern     - soupy     - LXML
+Used libraries:    
+
+Lerned how to use the followed libraries: 
+ - urllib     
+ - beautifulsoup   
+ - pattern  
+ 
+ - soupy     
+ - LXML
